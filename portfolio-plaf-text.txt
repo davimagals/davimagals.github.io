@@ -1,0 +1,6 @@
+É um sistema para formação continuada de professores, por meio de cursos e trilhas de ensino, desenvolvido sob o seguinte objetivo geral:
+
+Desenvolver Recursos Educacionais Digitais autoformativos, voltados à formação de profissionais da educação para a Plataforma de Formação Continuada do MEC (PLAF MEC), além de hospedar e manter a PLAF  no período de vigência do projeto e desenvolver sua  versão voltada para dispositivos móveis.
+
+O repositório do código do projeto está no seguinte link:
+https://codigos.ufsc.br/nute/plataforma-formacao-plaf-v1

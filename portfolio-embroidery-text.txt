@@ -1,0 +1,8 @@
+Uma ferramenta para auxiliar a bordagem de desenhos sob a técnica "ponto cruzado", ou "ponto cruz", que a partir do upload de uma imagem, converte seus pixels em referências para os pontos.
+
+A ferramenta auxilia na contagem dos pontos, na distância entre eles, na definição das cores e na estimativa do tempo.
+
+Como utilizar:
+1. Primeiro, deve-se selecionar uma imagem no botão upload, porém uma imagem do jogo Mario Bros já está disponível para exemplo;
+2. O posicionamento do corte pode ser feito por meio dos botões de setas, ou pelo uso do mouse, selecionando o corte na própria imagem original;
+3. Ao apertar no botão check, em verde, as referências são geradas logo abaixo.
